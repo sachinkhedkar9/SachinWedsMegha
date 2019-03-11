@@ -4,6 +4,7 @@
     background: url(../images/bg/bg16.jpg) no-repeat center center/cover;
     overflow: hidden;
     background-attachment: fixed;
+    transform: rotate(-90deg);
 }
 
 .b1desc6 {
