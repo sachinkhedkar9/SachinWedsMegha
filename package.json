@@ -23,9 +23,9 @@
     "jshint-stylish": "^2.2.1"
   },
   "scripts": {
-    "postinstall": "bower install"
-	"start": "gulp server"
-  }
+    "postinstall": "bower install",
+	  "start": "gulp server"
+  },
     "engines": {
     "node": "10.x"
   },
