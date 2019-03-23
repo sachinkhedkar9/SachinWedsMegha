@@ -1,7 +1,7 @@
 .bannerSix {
     width: 100%;
     position: relative;
-    background: url(../images/bg/bg16.jpg) no-repeat center center/cover;
+    background: url(../images/bg/bg16.jpeg) no-repeat center center/cover;
     overflow: hidden;
     background-attachment: fixed;
 }
@@ -544,7 +544,7 @@
 
 @media screen and (min-width: 992px) {
     .bannerSix {
-        background: url(../images/bg/bg15.jpeg) no-repeat center center/cover;
+        background: url(../images/bg/bg15.jpg) no-repeat center center/cover;
     }
     .b1desc6 p {
         font-size: 2rem;
